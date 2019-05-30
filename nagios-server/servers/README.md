@@ -2,7 +2,7 @@
 
 ## Date 30/06/2019
 
-Subo los ficheros de configuración de la carpeta /usr/local/nagios/etc/objects
+Subo los ficheros de configuración de la carpeta /usr/local/nagios/etc/servers
 
 - commands.cfg ............ contiene la configuracion de los commandos que usa nagios
 - contacts.cfg ............ es la plantilla donde se definen los contactos y los grupos de contacto
