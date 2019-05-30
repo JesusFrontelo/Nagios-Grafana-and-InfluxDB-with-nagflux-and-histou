@@ -4,8 +4,8 @@
 
 ### Subo los ficheros de configuración de la carpeta /usr/local/naagios/etc/objects
 
-### commands.cfg contiene la configuracion de los commandos que usa nagios
-### contacts.cfg es la plantilla donde se definen los contactos y los grupos de contacto
-### localhost.cfg es donde está definido el servidor de Nagios y los grupos de host Linux
-### templates.cfg se encuentran definidas las plantillas de cada objeto y las que usa histou
-### timeperiods.cfg aquí se definen los timeperiods (horarios y periodos vacacionales)
+#### commands.cfg      contiene la configuracion de los commandos que usa nagios
+#### contacts.cfg      es la plantilla donde se definen los contactos y los grupos de contacto
+#### localhost.cfg     es donde está definido el servidor de Nagios y los grupos de host Linux
+#### templates.cfg     se encuentran definidas las plantillas de cada objeto y las que usa histou
+#### timeperiods.cfg   aquí se definen los timeperiods (horarios y periodos vacacionales)
