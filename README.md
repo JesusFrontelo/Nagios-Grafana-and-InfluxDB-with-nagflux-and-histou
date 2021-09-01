@@ -1,8 +1,6 @@
 # Nagios-Grafana-and-InfluxDB-with-nagflux-and-histou 
 
 
-##**Introducción**
-
 En este documento explicaremos como instalar y configurar un servidor Nagios Core 4, un
 servidor Grafana 6.1 y un servidor InfluxDB 1.7, todos ellos con los plugin necesarios corriendo
 sobre los sistemas Debian 9 stretch y Raspbian 9 stretch, desde cero.
