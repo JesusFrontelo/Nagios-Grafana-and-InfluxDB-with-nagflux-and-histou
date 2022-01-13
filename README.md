@@ -1,3 +1,9 @@
+<div align="center">
+  <img align="left" height="60" width="124" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Nagios_logo.png"/>
+  <img align="center" height="60" width="224" src="https://grafana.com/static/assets/internal/grafana_logo-web-white-text.svg" />
+  <img align="right" height="60" width="224" src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--full--castle.svg" />
+</div>
+
 # Nagios-Grafana-and-InfluxDB-with-nagflux-and-histou 
 
 
